@@ -1,0 +1,2 @@
+# Color-Game-Project-Javascript-
+This application is a color guessing game which primarily makes use of javascript. The UI is built using HTML5, CSS3. Initially, the player chooses the difficulty level of the game, and depending on the input the colors are displayed with the rgb code of the color to be guessed. The player keeps guessing and on a wrong guess that color would disappear until the correct color is guessed by the player. And again a new game can be started , so on.
